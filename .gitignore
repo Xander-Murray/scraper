@@ -1,0 +1,13 @@
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# virtual environments
+.venv/
+venv/
+VENV/
+
+# outputs
+*.log
+CGL_general_messages.csv
