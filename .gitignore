@@ -11,3 +11,7 @@ VENV/
 # outputs
 *.log
 CGL_general_messages.csv
+
+
+# notes 
+notes.md
